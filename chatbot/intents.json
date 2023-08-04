@@ -1,0 +1,219 @@
+{
+  "intents": [
+    {
+      "tag": "Greetings",
+      "patterns": ["Hello", "Help", "Hey there!", ""        
+      ],
+      "responses": ["Hello! How can I help you? "
+      ]
+    },
+    {
+      "tag": "Definition",
+      "patterns": ["What is domestic violence?"        
+      ],
+      "responses": ["Domestic violence is a pattern of behavior used by one person to gain power and control. "
+      ]
+    },
+    {
+      "tag": "Types",
+      "patterns": ["What are the different types of domestic violence?"        
+      ],
+      "responses": ["The different types of domestic violence include physical abuse, emotional abuse, sexual abuse, financial abuse, and psychological abuse. "
+      ]
+    },
+    {
+      "tag": "Red Flag",
+      "patterns": ["What are the warning signs of domestic violence?", "What red flags should I look for?"        
+      ],
+      "responses": ["The warning signs of domestic violence include jealousy, possessiveness, controlling behavior, isolation, verbal abuse, and physical violence. "
+      ]
+    },
+    {
+      "tag": "suspision",
+      "patterns": ["What should I do if I suspect someone is a victim of domestic violence?"        
+      ],
+      "responses": ["If you suspect someone is a victim of domestic violence, you should offer support and resources, listen without judgment, and encourage them to seek help."
+      ]
+    },
+    {
+      "tag": "Victim",
+      "patterns": ["What should I do if I am a victim of domestic violence?"        
+      ],
+      "responses": ["If you are a victim of domestic violence, you should seek help from a domestic violence hotline, a shelter, or a counselor. You should also create a safety plan and consider getting a restraining order."
+      ]
+    },
+    
+    {
+      "tag": "Safetyplans",
+      "patterns": ["What is a safety plan?"        
+      ],
+      "responses": ["A safety plan is a personalized plan that helps victims of domestic violence stay safe and protect themselves and their children from further abuse"
+      ]
+    },
+    
+    {
+      "tag": "Help",
+      "patterns": ["How can I help a friend who is a victim of domestic violence?      "        
+      ],
+      "responses": ["You can help a friend who is a victim of domestic violence by offering support and resources, listening without judgment, and encouraging them to seek help.      "
+      ]
+    },
+    
+    {
+      "tag": "Effects",
+      "patterns": ["What are the long-term effects of domestic violence?      "        
+      ],
+      "responses": ["The long-term effects of domestic violence can include physical injuries, mental health issues, substance abuse, and financial problems.      "
+      ]
+    },
+    
+    {
+      "tag": "LegalConsequesnce",
+      "patterns": ["What are the legal consequences of domestic violence?      "        
+      ],
+      "responses": ["The legal consequences of domestic violence can include arrest, jail time, fines, and a criminal record.      "
+      ]
+    },
+    
+    {
+      "tag": "Prevention",
+      "patterns": ["How can we prevent domestic violence? "        
+      ],
+      "responses": ["We can prevent domestic violence by promoting healthy relationships, educating people about the warning signs of abuse, and holding abusers accountable for their actions.      "
+      ]
+    },
+    
+    {
+      "tag": "cycle",
+      "patterns": ["What is the cycle of domestic violence ?"        
+      ],
+      "responses": ["The cycle of domestic violence is a pattern of behavior that includes tension building, an abusive incident, reconciliation, and a calm period.  "
+      ]
+    },
+    
+    {
+      "tag": "Gaslighting",
+      "patterns": ["What is gaslighting?"     
+      ],
+      "responses": ["Gaslighting is a form of emotional abuse in which the abuser manipulates the victim into doubting their own memory, perception, or sanity."
+      ]
+    },
+    
+    {
+      "tag": "Emotional Abuse",
+      "patterns": ["What is financial abuse?      "        
+      ],
+      "responses": ["Emotional abuse is a form of domestic violence in which the abuser uses words, actions, or behaviors to control, intimidate, or manipulate the victim.      "
+      ]
+    },
+    
+    {
+      "tag": "FinancialAbuse",
+      "patterns": ["What is financial abuse?      "        
+      ],
+      "responses": ["Financial abuse is a form of domestic violence in which the abuser controls the victim's finances and restricts their access to money.      "
+      ]
+    },
+    
+    {
+      "tag": "physicalabuse?",
+      "patterns": ["What is physical abuse?      "       
+      ],
+      "responses": ["Physical abuse is a form of domestic violence in which the abuser uses physical force to control, intimidate, or harm the victim.    "
+      ]
+    },
+    
+    {
+      "tag": "SexualAbuse",
+      "patterns": ["What is Sexual abuse?      "        
+      ],
+      "responses": ["Sexual abuse is a form of domestic violence in which the abuser uses sex or sexual acts to control, intimidate, or harm the victim.   "
+      ]
+    },
+    
+    {
+      "tag": "PsychologiesAbuse",
+      "patterns": ["What is Psychologies abuse?      "        
+      ],
+      "responses": ["Psychological abuse is a form of domestic violence in which the abuser uses words, actions, or behaviors to control, intimidate, or manipulate the victim.     "
+      ]
+    },
+    
+    {
+      "tag": "Stalking",
+      "patterns": ["What is stalking?     "        
+      ],
+      "responses": ["Stalking is a form of domestic violence in which the abuser follows, harasses, or threatens the victim.  "
+      ]
+    },
+    
+    {
+      "tag": "restrainingorder",
+      "patterns": ["What is a restraining order?     "        
+      ],
+      "responses": ["A restraining order is a legal order that prohibits an abuser from contacting or coming near the victim."
+      ]
+    },
+    
+    {
+      "tag": "violenceshelter?",
+      "patterns": ["What is financial abuse?      "        
+      ],
+      "responses": ["   A domestic violence shelter is a safe place where victims of domestic violence can go to escape abuse and get support.     "
+      ]
+    },
+    {
+      "tag": "violencehotline",
+      "patterns": ["What is a domestic violence hotline?    "        
+      ],
+      "responses": ["A domestic violence hotline is a phone number that victims of domestic violence can call to get help and support."
+      ]
+    },
+    
+    {
+      "tag": "NationalDomesticViolenceHotline     ",
+      "patterns": ["What is the National Domestic Violence Hotline?      "        
+      ],
+      "responses": ["The National Domestic Violence Hotline is a 24/7 hotline that provides support and resources to victims of domestic violence.      "
+      ]
+    },
+    
+    {
+      "tag": "ViolenceAgainstWomenAct",
+      "patterns": ["What is the Violence Against Women Act?     "        
+      ],
+      "responses": ["The Violence Against Women Act is a federal law that provides funding for programs that support victims of domestic violence.    "
+      ]
+    },
+    
+    {
+      "tag": "FamilyViolencePrevention",
+      "patterns": ["What is the Family Violence Prevention and Services Act?     "        
+      ],
+      "responses": ["The Family Violence Prevention and Services Act is a federal law that provides funding for programs that support victims of domestic violence.      "
+      ]
+    },
+    
+    {
+      "tag": "domesticviolenceonchildren",
+      "patterns": ["What is the impact of domestic violence on children?    "        
+      ],
+      "responses": ["The impact of domestic violence on children can include physical injuries, mental health issues, and behavioral problems.   "
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["Bye", "See you later", "Goodbye"],
+      "responses": [
+        "See you later, thanks for visiting",
+        "Have a nice day",
+        "Bye! Come back again soon."
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": ["Thanks", "Thank you", "That's helpful", "Thank's a lot!"],
+      "responses": ["Happy to help!", "Any time!", "My pleasure"]
+    }    
+  ]
+}
